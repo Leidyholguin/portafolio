@@ -406,7 +406,9 @@ li a.active, li a:hover{
 
 .conteiner-contacto{
     display: flex;
-    flex-direction: column;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
 }
 
 .tarjeta1{
@@ -426,10 +428,3 @@ li a.active, li a:hover{
     margin-top: 100px;
     padding: 70px;
 }
-
-
-
-
-
-
-
